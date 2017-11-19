@@ -12,5 +12,5 @@ bestCustomer ='not bob'
 }
 
 function overwriteBestCustomer() {
-  bestCustomer = 'poor bob'
+  bestCustomer = 'maybe bob'
 }
