@@ -7,5 +7,5 @@ function upperCaseCustomerName(customerName){
   return customerName.toUpperCase()
 }
 String.prototype.capitalize = function() {
-    return customerName.toUpperCase();
+    return 'bob'.toUpperCase();
 }
