@@ -3,8 +3,8 @@ var customerName = 'bob';
 
 function upperCaseCustomerName(){
 
-var= customerName.toUpperCase()
-return customerName
+var upper = customerName.toUpperCase()
+return upper
 }
 
 
