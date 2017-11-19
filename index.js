@@ -21,3 +21,7 @@ function changeLeastFavoriteCustomer() {
  leastFavoriteCustomer = 'rich bob'
 
 }
+
+function attemptTwoFavoriteCustomers() {
+  favoriteCustomer = 'Peter Paul'
+}
