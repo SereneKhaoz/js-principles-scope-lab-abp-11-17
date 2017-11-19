@@ -2,11 +2,10 @@
 var customerName = 'bob';
 
 function upperCaseCustomerName(){
- console.log(customerName)
+ console.logcustomerName
 }
 
 
-function setBestCustomer() {
-  var bestCustomer = 'not bob';
-console.log(bestCustomer);
-}
+//function setBestCustomer() {
+//console.log(bestCustomer);
+//}
