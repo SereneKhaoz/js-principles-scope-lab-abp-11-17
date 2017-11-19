@@ -26,4 +26,4 @@ function attemptTwoFavoriteCustomers() {
  favoriteCustomer = 'Peter Paul'
 }
 
-let favoriteCustomer = 'Thomas';
+var favoriteCustomer = 'Thomas';
